@@ -1,2 +1,3 @@
 this is simple text file for repo.
 This line add by branch_1.
+this line add by branch_1 in 2nd commit.
